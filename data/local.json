@@ -9,7 +9,7 @@
         "IconViewZoom": 15,
         "TextViewZoom": 17,
         "attribution": "<a href=\"https://www.maptiler.com/copyright/\" target=\"_blank\">© MapTiler</a> <a href=\"https://www.openstreetmap.org/copyright\" target=\"_blank\">© OpenStreetMap contributors</a>",
-        "style": "https://api.maptiler.com/maps/jp-mierune-streets/style.json?key=IXdZ8l6olNbOY13ScXhM",
+        "style": "https://api.maptiler.com/maps/streets/style.json?key=IXdZ8l6olNbOY13ScXhM",
         "GoogleAnalytics": "",
         "EnableBookmark": false
     },
